@@ -40,5 +40,4 @@ cv.pdf               drop your CV here; CTAs point at it
 
 ## Placeholders to replace before shipping
 
-- `BOOKING_LINK` — Google Calendar appointment schedule or Cal.com
-- `PR_LINK` — the Devin pull request, once it exists
+- Devin PR link — add the footer credit line only once a real PR exists.
